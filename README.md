@@ -211,7 +211,7 @@ Edit `config/settings.py` to customize:
 
 ```python
 # Model and generation settings
-DEFAULT_MODEL = "gpt-4"
+DEFAULT_MODEL = "gpt-4o-mini"
 TEMPERATURE = 0.7
 MAX_TOKENS = 4000
 
