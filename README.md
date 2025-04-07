@@ -14,8 +14,6 @@ The system is designed to support narrative creation across multiple Indian regi
 - 📖 **Coherent Narrative**: Chapter generation with context management
 - 🔀 **Interactive Storytelling**: Decision points and branching narratives
 - 🗣️ **Multi-Language Support**: Create content in Hindi and other Indian languages
-- 🎧 **Audiobook Ready**: Export stories formatted for audio narration
-- 🎭 **Diverse Narrative Styles**: Multiple tones and pacing options
 
 ## 📁 Project Structure
 
