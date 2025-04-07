@@ -1,0 +1,27 @@
+# Core dependencies
+langchain
+langchain-openai
+openai
+
+# Prompt engineering and output parsing
+langchain-core
+pydantic
+
+# Utilities
+python-dotenv
+tqdm
+colorama
+
+# Optional: For enhanced text processing
+spacy
+nltk
+
+# Optional: For web interface if needed
+gradio
+tqdm
+markdown
+Pillow
+fpdf
+ebooklib
+gTTS
+
